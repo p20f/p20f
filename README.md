@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Pepp.
+### 👋 Hi there
 
 - :school: I’m currently earning a Bachelor's Degree in Computer Science.
 - 🌱 In my spare time I'm learning **Dart** and **Flutter**.
