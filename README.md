@@ -1,3 +1,5 @@
+[![An image of @p20f's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p20f)](https://holopin.io/@p20f)
+
 ### 👋 Hi there
 
 - :school: I’m currently earning a Bachelor's Degree in Computer Science
