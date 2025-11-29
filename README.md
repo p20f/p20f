@@ -10,7 +10,7 @@
   </a>
 
   <p>
-    <em>Exploring everything from tech to totally unrelated fields—chasing innovation and fun side-projects along the way.</em>
+    <em>Exploring everything from tech to totally unrelated fields, chasing innovation and fun side-projects along the way</em>
   </p>
 
   <p>
